@@ -1,8 +1,8 @@
 <h1 align="center">Hi Programmers👋, I'm Abdelrhman Arafa 😄</h1>
-<h3 align="center">Software Engineer 🧠  </a> 📚</h3>
+<h3 align="center">Software Engineer 🧠</a> 📚</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrhman-arafa"><img src="https://img.shields.io/badge/Abdelrhman%20Arafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-arafa"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdelrhman-arafa%2F?style=for-the-badge&color=1877F2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdelrhman-arafa%2F " /></a>
   <a href="https://www.facebook.com/arafa128"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -12,19 +12,19 @@
 
 ## 🚀 About Me
 
-```dart
+```c
 class AbdelrhmanArafa {
   String role = "Software Engineer";
   String language = "Arabic","English";
   List<String> skills = [
+    "Bakcend Developer",
+    "PHP , LARAVEL , MYSQL",
+    "HTML , CSS , JS",
     "Embeeded Software",
     "Embeeded  Linux",
     "Software Testing & Validation",
     "C, CPP, Python , BASH",
     "CAPL, DOCKER , YOCTO",
-    "Bakcend Developer",
-    "PHP , LARAVEL , MYSQL",
-    "HTML , CSS , JS",
     "GitHub ,Copilot , Git";
   ];
 }
@@ -42,8 +42,8 @@ class AbdelrhmanArafa {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arafa128&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafa128&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
